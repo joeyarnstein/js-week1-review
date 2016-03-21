@@ -1,0 +1,23 @@
+{
+  "name": "ping-pong",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Joey <joeyarnstein@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/joseph-arnstein/npm-template",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "moment": "^2.12.0"
+  }
+}
