@@ -2,7 +2,7 @@
 
 # _GitHub API_
 
-#### _Code Review Week 1 of Epicodus Javascript, 3.19.2016_
+#### _Code Review Week 1 of Epicodus Javascript_
 
 ### By _**Joseph Arnstein**_
 
