@@ -10,7 +10,7 @@ exports.getRepos = function(myVar){
       var name = obj.name;
       var description = obj.description;
 
-      $(".apiResponse").append("<li>" + name + "<ul><li>"+description+"</li></ul></li>");
+      $(".apiResponse").append("<li>" + name + "<ul><li class=describe>"+description+"</li></ul></li>");
     });
   }).fail(function(error){
     console.log(error.responseJSON.message);

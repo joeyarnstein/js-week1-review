@@ -1,0 +1,32 @@
+$green : #66FF68;
+$pink : #ff0066;
+$yellow : #ffd966;
+
+.box {
+  background: $green;
+  border: 15px solid black;
+  padding: 40px 80px;
+  .button {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    background: $yellow;
+    color: $pink;
+  }
+}
+
+.apiResponse {
+  background: $pink;
+  border: 15px solid black;
+  padding: 40px 80px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  color: $yellow;
+  .describe {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    color: $green;
+  }
+}
